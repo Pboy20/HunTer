@@ -1,0 +1,35 @@
+=== RESEARCH PAPER ANALYSIS REPORT ===
+
+File: C:\Users\USER\GROUP 43\data\samples\sample2.docx
+Date: 2025-08-02 07:29:54
+
+Plagiarism Check:
+Found 2 similar sentence pairs:
+- 83.33% similar
+  Sentence 1:  (2021)
+  Sentence 2:  (2020)
+- 83.33% similar
+  Sentence 1:  (2021)
+  Sentence 2:  (2019)
+Readability:
+Score:  27.38 (Very Difficult)
+
+Citation Check:
+APA-style:  0
+IEEE-style:  0
+Total:  0
+References Section:  Present
+
+Warnings:
+-  No in-text citations found.
+4. Topic Modeling - Extracted Keywords:
+- climate: 12.00
+- change: 6.00
+- global: 5.00
+- emissions: 3.00
+- environment: 2.00
+- sea: 2.00
+- levels: 2.00
+- mitigation: 2.00
+- strategies: 2.00
+- significant: 2.00

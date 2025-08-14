@@ -1,0 +1,31 @@
+=== RESEARCH PAPER ANALYSIS REPORT ===
+
+File: C:\Users\USER\GROUP 43\data\samples\sample4.docx
+Date: 2025-08-04 09:58:26
+
+Plagiarism Check:
+no significant similarities found. Looks original.
+
+Readability:
+Score:  15.72 (Very Difficult)
+
+Citation Check:
+APA-style:  0
+IEEE-style:  0
+Total:  0
+References Section:  Missing
+
+Warnings:
+-  No in-text citations found.
+-  No References or Bibliography section found.
+4. Topic Modeling - Extracted Keywords:
+- mental: 6.00
+- urban: 5.00
+- traffic: 5.00
+- congestion: 5.00
+- health: 4.00
+- public: 3.00
+- impact: 2.00
+- economic: 2.00
+- pollution: 2.00
+- stress: 2.00

@@ -1,0 +1,31 @@
+=== RESEARCH PAPER ANALYSIS REPORT ===
+
+File: C:\Users\JoyceAfolabi\GROUP 43\data\samples\climate_paper1.docx
+Date: 2025-07-31 11:40:24
+
+Plagiarism Check:
+no significant similarities found. Looks original.
+
+Readability:
+Score:  19.25 (Very Difficult)
+
+Citation Check:
+APA-style:  0
+IEEE-style:  0
+Total:  0
+References Section:  Missing
+
+Warnings:
+-  No in-text citations found.
+-  No References or Bibliography section found.
+4. Topic Modeling - Extracted Keywords:
+- climate: 4.00
+- change: 3.00
+- human: 2.00
+- global: 2.00
+- impact: 1.00
+- refers: 1.00
+- long: 1.00
+- term: 1.00
+- alterations: 1.00
+- temperature: 1.00
